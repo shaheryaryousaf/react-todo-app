@@ -1,0 +1,68 @@
+form {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.form-control {
+  border-radius: 0px;
+}
+
+textarea {
+  resize: none;
+}
+
+.btn-primary {
+  border-radius: 0px;
+  background-color: #7952B3;
+  border-color: #7952B3;
+  font-size: 14px;
+}
+
+.btn-danger {
+  border-radius: 0px;
+  background-color: #dc3545;
+  border-color: #dc3545;
+  font-size: 12px;
+}
+
+.btn-success {
+  border-radius: 0px;
+  background-color: #28a745;
+  border-color: #28a745;
+  font-size: 12px;
+}
+
+.btn-info {
+  border-radius: 0px;
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+  font-size: 12px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.card {
+  border-radius: 0px;
+  margin-bottom: 5px;
+}
+
+.task-title {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.task-time {
+  float: right;
+  font-size: 15px;
+}
+
+.alert-danger {
+  border-radius: 0px;
+  padding: 0.5rem 1rem;
+  background-color: #dc3545;
+  border: 1px solid #dc3545;
+  color: white;
+  font-size: 14px;
+}
